@@ -1,3 +1,3 @@
-# Pico-Flash-Driver
-The Pico-Flash-Driver is a C-language library allowing your Raspberry Pi Pico application to read / write from / to Pico`s flash memory.
+# Pico-Flash-Module
+The Pico-Flash-Module allows your C-language program to read and / or write from / to Pico's flash memory (for example to store and retrieve configuration data).
 Read the user guide for complete instructions on how to use it.
